@@ -1,0 +1,2 @@
+# modern-store
+ Modern Store A responsive and modern e-commerce platform for online shopping.  Features:  Browse products by category Search functionality with live results Add items to a shopping cart User authentication for secure checkout Technologies Used:  HTML, CSS, Bootstrap for the frontend PHP and JavaScript for backend logic and interactivity This project is currently under development. Future updates will include payment gateway integration and user reviews.
